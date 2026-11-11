@@ -21,4 +21,6 @@ I make small programs for Windows and a Linux distribution to go with them. Ever
 - Website: [cyzs-retroweb.rf.gd](https://cyzs-retroweb.rf.gd/index.php) - downloads, changelogs and a place to report bugs.
 - Found a problem? Open an issue in the project's repository.
 
+Thanks for stopping by!
+
 <sub>Made in Poland. i like cats :3</sub>
