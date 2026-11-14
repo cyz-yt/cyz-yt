@@ -6,15 +6,15 @@ I make small programs for Windows and a Linux distribution to go with them. Ever
 
 | | What it is | Latest |
 |---|---|---|
-| [**OrkaPlayer**](https://github.com/cyz-yt/OrkaPlayer) | A media player for Windows built on VLC. Lyrics that sing along, podcasts, internet radio and TV, a tag editor, an equalizer and an oscilloscope drawn from the music itself. | [![OrkaPlayer](https://img.shields.io/github/v/release/cyz-yt/OrkaPlayer?label=&color=1D9E75)](https://github.com/cyz-yt/OrkaPlayer/releases/latest) |
-| [**OrkaNote**](https://github.com/cyz-yt/OrkaNote) | A Notepad for Windows with tabs that come back after closing, colours for code, Run (F9) for scripts, macros and a dark theme. | [![OrkaNote](https://img.shields.io/github/v/release/cyz-yt/OrkaNote?label=&color=7F77DD)](https://github.com/cyz-yt/OrkaNote/releases/latest) |
+| [**OrkaPlayer**](https://github.com/cyz-yt/OrkaPlayer) | A media player for Windows built on VLC. Lyrics that sing along, podcasts, internet radio and TV, tools for films, sound effects, and a spectrogram that shows pictures hidden in music. | [![OrkaPlayer](https://img.shields.io/github/v/release/cyz-yt/OrkaPlayer?label=&color=1D9E75)](https://github.com/cyz-yt/OrkaPlayer/releases/latest) |
+| [**OrkaNote**](https://github.com/cyz-yt/OrkaNote) | A Notepad for Windows with tabs that come back after closing, colours for code, a Markdown preview, spelling, Run (F9) for scripts and a dark theme. | [![OrkaNote](https://img.shields.io/github/v/release/cyz-yt/OrkaNote?label=&color=7F77DD)](https://github.com/cyz-yt/OrkaNote/releases/latest) |
+| [**OrkaPaint**](https://github.com/cyz-yt/OrkaPaint) | A drawing program for Windows - a bit more than plain Paint: layers, selections, colour adjustments and effects, light or dark. | [![OrkaPaint](https://img.shields.io/github/v/release/cyz-yt/OrkaPaint?label=&color=2F5FC4)](https://github.com/cyz-yt/OrkaPaint/releases/latest) |
 | [**OrkaLinux**](https://github.com/cyz-yt/OrkaLinux) | A Linux distribution built on Debian 13 with KDE Plasma 6. Firefox, Discord, VLC and LibreOffice out of the box, and it installs with Secure Boot on. | [![OrkaLinux](https://img.shields.io/github/v/release/cyz-yt/OrkaLinux?include_prereleases&label=&color=378ADD)](https://github.com/cyz-yt/OrkaLinux/releases/latest) |
 | [**cyz's ISO Creator**](https://github.com/cyz-yt/cyzs-ISO-Creator) | Makes an ISO file from a folder - for getting documents into a virtual machine without VMware Tools. Small, simple, never goes online. | [![cyz's ISO Creator](https://img.shields.io/github/v/release/cyz-yt/cyzs-ISO-Creator?label=&color=185FA5)](https://github.com/cyz-yt/cyzs-ISO-Creator/releases/latest) |
 
 ### Coming up
 
-- **OrkaPaint 1.0 "Azurite"** - a paint program with layers, for Windows and Linux.
-- **OrkaNote and OrkaPlayer for Linux**, packaged for OrkaLinux.
+- **OrkaPaint, OrkaNote and OrkaPlayer for Linux**, packaged for OrkaLinux.
 
 ### Elsewhere
 
